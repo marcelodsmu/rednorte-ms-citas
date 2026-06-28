@@ -31,3 +31,19 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Limpieza preventiva: evidencias y artefactos no de codigo
+pdf/
+evidencias/
+artifacts/
+playwright-report/
+test-results/
+coverage/
+*.pdf
+*.ppt
+*.pptx
+*.zip
+*.mp4
+*.mov
+*.avi
+*.hprof
